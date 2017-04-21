@@ -1,0 +1,5 @@
+GtkWindow {
+  background-image: gtk-gradient (linear,
+                                  left top, right top,
+                                  from (@yellow), to (@blue));  
+}
